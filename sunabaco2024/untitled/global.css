@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lexend: Lexend;
+  --font-manrope: Manrope;
+  --font-noto-serif: "Noto Serif";
+  --font-roboto: Roboto;
+  --font-leckerli-one: "Leckerli One";
+  --font-lekton: Lekton;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-mid: 17px;
+  --font-size-sm: 14px;
+  --font-size-14xl: 33px;
+  --font-size-7xl: 26px;
+  --font-size-6xl: 25px;
+  --font-size-13xl: 32px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fefefe;
+  --color-gray-200: #171a1f;
+  --color-silver: #bdc1ca;
+  --color-blueviolet-100: #6d31ed;
+  --color-gainsboro: #e6e6e6;
+  --color-darkslategray: #4a4d52;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-lg: 18px;
+
+  /* Paddings */
+  --padding-11xl: 30px;
+  --padding-41xl: 60px;
+  --padding-12xs: 1px;
+  --padding-4xs-5: 8.5px;
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+  --padding-xl: 20px;
+  --padding-8xl: 27px;
+  --padding-22xl: 41px;
+  --padding-mid: 17px;
+  --padding-11xs: 2px;
+  --padding-2xl: 21px;
+  --padding-smi: 13px;
+  --padding-4xs: 9px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}
